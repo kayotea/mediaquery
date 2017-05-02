@@ -1,0 +1,13 @@
+/* stylesheet for mediaquery.html */
+
+@media only screen and (max-width: 480px){
+    body { background: lightgreen; }
+}
+
+@media only screen and (min-width: 481px) {
+    body { background: lightpink; }
+}
+
+@media only screen and (min-width: 1024px){
+    body { background: lightgoldenrodyellow; }
+}
